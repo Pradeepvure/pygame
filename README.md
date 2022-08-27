@@ -1,4 +1,5 @@
-This is a simulation game, the executable is in the LostIntTheWoodsFolder
+This is a simulation game, the executable is in the LostIntTheWoods zip folder
+
 
 If you want to run this standalone, clone the repository and use commands
 
