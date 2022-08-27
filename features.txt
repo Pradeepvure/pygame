@@ -1,0 +1,20 @@
+grid with trees
+sprites charachters
+movement of sprites 
+level selection
+based on level selection grid making
+based on level searching scheme
+
+
+python 
+pygame(main game engine library), pygame-menu(extra package for creating menu) 
+
+requirements: 
+- simulation like game
+- prepare 3 level k-2, k3-5, k6-8 
+
+This is a simulation game, 
+search technique : 
+random movement,
+breadth first search,
+A*, best first search 
